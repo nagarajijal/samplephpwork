@@ -8,7 +8,7 @@
 <br/>
  <h2><font color="maroon">The background color, the below image and this line content automatically got reflected once the commit is done in GitHub </font></h2>
  <br/>
- <img src = "https://www.planwallpaper.com/static/images/Beautiful-Scenery-HD-Wallpapers-Pictures-11.jpg">
+ <img src = "https://media.gettyimages.com/photos/traffic-stands-in-a-queue-on-residency-road-in-downtown-bangalore-on-picture-id147100273">
  <br/>
 <?php
 echo "version :Ver 2.0";
